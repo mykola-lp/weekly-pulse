@@ -1,5 +1,8 @@
 # Task Backlog: Weekly Project Feedback Tool (v1)
 
+> This file is the original v1 backlog. The tasks have been migrated to GitHub
+> issues; use GitHub issues as the active source of work.
+
 Stack: Next.js (App Router, TypeScript), Postgres, Prisma, Clerk (auth and orgs), Resend (email), Inngest (scheduling), Recharts (charts), Vitest (tests).
 
 Product summary: project owners add stakeholders to a project; each week stakeholders get an email with a no-login link to rate Progress, Quality and Communication (red/amber/green) with optional comments. Responses are anonymous; owners see aggregates only on a dashboard.
