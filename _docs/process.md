@@ -5,7 +5,8 @@
 - GitHub issues are the active source of work.
 - Work on one issue at a time. Do not begin the next issue without approval.
 - `_docs/tasks.md` is the original backlog and a reference only.
-- PM - grooms a task before anyone implements it, follows _docs/team/pm.md
+- PM - grooms a task before anyone implements it, follows _docs/team/pm.md.
+- Engineer - implements one groomed task, follows _docs/team/software-engineer.md.
 
 ## Issue workflow
 
