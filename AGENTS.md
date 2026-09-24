@@ -13,3 +13,10 @@ Rules
   asking
 - Tasks are listed in `_docs/tasks.md`. Work on one task at a time and
   do not start the next one without asking
+
+Documents
+
+- `_docs/process.md` - how work is organized
+- Before writing tests, read `_docs/testing-guidelines.md`
+- For anything touching the UI, read `_docs/design-system.md`
+- `_docs/api.md` - describes what the API should look like
