@@ -16,5 +16,4 @@ Definition of done:
 - The work is committed
 - The issue is still open, with a comment saying what you did
 
-If an acceptance criterion is wrong, impossible, or contradicts
-another one, create a comment on the issue about it.
+If an acceptance criterion is wrong, impossible, or contradicts another one, create a comment on the issue about it.
